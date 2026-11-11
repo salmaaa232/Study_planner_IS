@@ -1,0 +1,32 @@
+test_baseline_is_effort_independent (test_algorithms.EdgeCases.test_baseline_is_effort_independent) ... ok
+test_empty_problem (test_algorithms.EdgeCases.test_empty_problem) ... ok
+test_exact_deadline (test_algorithms.EdgeCases.test_exact_deadline) ... ok
+test_invalid_parameters (test_algorithms.EdgeCases.test_invalid_parameters) ... ok
+test_limit_not_reported_as_impossible (test_algorithms.EdgeCases.test_limit_not_reported_as_impossible) ... ok
+test_nonmonotonic_curves (test_algorithms.EdgeCases.test_nonmonotonic_curves) ... ok
+test_target_already_met_zero_capacity (test_algorithms.EdgeCases.test_target_already_met_zero_capacity) ... ok
+test_csp_matches_bruteforce (test_algorithms.ExhaustiveOracles.test_csp_matches_bruteforce) ... ok
+test_search_matches_exhaustive_minimum (test_algorithms.ExhaustiveOracles.test_search_matches_exhaustive_minimum) ... ok
+test_deadline_conflict_all_variants (test_algorithms.ImpossibleCases.test_deadline_conflict_all_variants) ... ok
+test_predictor_accepts_csp_rejects (test_algorithms.ImpossibleCases.test_predictor_accepts_csp_rejects) ... ok
+test_unreachable_marks_and_best_effort (test_algorithms.ImpossibleCases.test_unreachable_marks_and_best_effort) ... ok
+test_zero_deadline (test_algorithms.ImpossibleCases.test_zero_deadline) ... ok
+test_ac3_prunes_order (test_algorithms.NormalCases.test_ac3_prunes_order) ... ok
+test_all_csp_switches (test_algorithms.NormalCases.test_all_csp_switches) ... ok
+test_all_search_algorithms (test_algorithms.NormalCases.test_all_search_algorithms) ... ok
+test_forward_check_removes_slot (test_algorithms.NormalCases.test_forward_check_removes_slot) ... ok
+test_integration (test_algorithms.NormalCases.test_integration) ... ok
+test_neural_network_roundtrip_and_monotonicity (test_algorithms.NormalCases.test_neural_network_roundtrip_and_monotonicity) ... ok
+test_ucs_known_optimum (test_algorithms.NormalCases.test_ucs_known_optimum) ... ok
+test_cutoff_prevents_future_clicks_and_scores (test_data.DataTests.test_cutoff_prevents_future_clicks_and_scores) ... ok
+test_missing_history (test_data.DataTests.test_missing_history) ... ok
+test_feature_contract (test_real_artifacts.RealArtifactTests.test_feature_contract) ... ok
+test_profiles_have_covered_horizons (test_real_artifacts.RealArtifactTests.test_profiles_have_covered_horizons) ... ok
+test_saved_model_has_monotone_paths (test_real_artifacts.RealArtifactTests.test_saved_model_has_monotone_paths) ... ok
+test_temporal_split_and_disjoint_students (test_real_artifacts.RealArtifactTests.test_temporal_split_and_disjoint_students) ... ok
+test_thirty_output_timetables (test_real_artifacts.RealArtifactTests.test_thirty_output_timetables) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.296s
+
+OK

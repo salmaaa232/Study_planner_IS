@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/
+tmp/
+.presentation-build/
+.codex-finalizer/
+source_history.bundle
+docs/git_log.txt

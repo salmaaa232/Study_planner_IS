@@ -1,0 +1,20 @@
+OULAD REAL PROFILE; generated capacity, target and session-to-click assumptions.
+Predictions are observational what-if estimates, not promised marks.
+{
+  "profile_id": "profile_06",
+  "target": 60,
+  "capacity": 3,
+  "deadlines": [
+    2,
+    10,
+    16
+  ],
+  "predictor": "baseline"
+}
+NO SOLUTION
+Allocation: (0, 0, 0) | Predicted marks: [1.0, 1.0, 1.0]
+Best feasible compromise minimizes total target shortfall within the session cap.
+Week  Slot  Assignment  Session
+Search: {'expanded': 729, 'generated': 729, 'csp_rejections': 0}
+CSP: {'assignments': 0, 'backtracks': 0, 'checks': 0, 'pruned': 0, 'arcs': 0}
+Saved: outputs/demo_baseline/result.json and cooperation.png

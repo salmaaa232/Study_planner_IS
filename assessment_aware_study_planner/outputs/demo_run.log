@@ -1,0 +1,485 @@
+OULAD REAL PROFILE; generated capacity, target and session-to-click assumptions.
+Predictions are observational what-if estimates, not promised marks.
+{
+  "profile_id": "profile_06",
+  "target": 60,
+  "capacity": 3,
+  "deadlines": [
+    2,
+    10,
+    16
+  ],
+  "predictor": "nn"
+}
+SOLUTION
+Allocation: (0, 0, 3) | Predicted marks: [62.904255627195646, 61.369765908653065, 60.00767035895552]
+Week  Slot  Assignment  Session
+   1     1           3        1
+   1     2           3        2
+   1     3           3        3
+Search: {'expanded': 20, 'generated': 34, 'csp_rejections': 0}
+CSP: {'assignments': 3, 'backtracks': 0, 'checks': 7422, 'pruned': 6, 'arcs': 12}
+SEARCH TRACE (up to first 30 states)
+[
+  {
+    "state": [
+      0,
+      0,
+      0
+    ],
+    "cost": 0,
+    "marks": [
+      62.904255627195646,
+      61.369765908653065,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      0,
+      0
+    ],
+    "cost": 1,
+    "marks": [
+      62.98159798117143,
+      61.369765908653065,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      1,
+      0
+    ],
+    "cost": 1,
+    "marks": [
+      62.904255627195646,
+      61.4322495981485,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      0,
+      1
+    ],
+    "cost": 1,
+    "marks": [
+      62.904255627195646,
+      61.369765908653065,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      2,
+      0,
+      0
+    ],
+    "cost": 2,
+    "marks": [
+      63.00265406511281,
+      61.369765908653065,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      1,
+      0
+    ],
+    "cost": 2,
+    "marks": [
+      62.98159798117143,
+      61.4322495981485,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      0,
+      1
+    ],
+    "cost": 2,
+    "marks": [
+      62.98159798117143,
+      61.369765908653065,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      2,
+      0
+    ],
+    "cost": 2,
+    "marks": [
+      62.904255627195646,
+      61.44909922934417,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      1,
+      1
+    ],
+    "cost": 2,
+    "marks": [
+      62.904255627195646,
+      61.4322495981485,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      0,
+      2
+    ],
+    "cost": 2,
+    "marks": [
+      62.904255627195646,
+      61.369765908653065,
+      59.99752179415714
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      3,
+      0,
+      0
+    ],
+    "cost": 3,
+    "marks": [
+      63.01535179475726,
+      61.369765908653065,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      2,
+      1,
+      0
+    ],
+    "cost": 3,
+    "marks": [
+      63.00265406511281,
+      61.4322495981485,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      2,
+      0,
+      1
+    ],
+    "cost": 3,
+    "marks": [
+      63.00265406511281,
+      61.369765908653065,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      2,
+      0
+    ],
+    "cost": 3,
+    "marks": [
+      62.98159798117143,
+      61.44909922934417,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      1,
+      1
+    ],
+    "cost": 3,
+    "marks": [
+      62.98159798117143,
+      61.4322495981485,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      1,
+      0,
+      2
+    ],
+    "cost": 3,
+    "marks": [
+      62.98159798117143,
+      61.369765908653065,
+      59.99752179415714
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      3,
+      0
+    ],
+    "cost": 3,
+    "marks": [
+      62.904255627195646,
+      61.45924779414257,
+      59.918188473466024
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      2,
+      1
+    ],
+    "cost": 3,
+    "marks": [
+      62.904255627195646,
+      61.44909922934417,
+      59.98067216296147
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      1,
+      2
+    ],
+    "cost": 3,
+    "marks": [
+      62.904255627195646,
+      61.4322495981485,
+      59.99752179415714
+    ],
+    "meets_targets": false,
+    "schedulable": null
+  },
+  {
+    "state": [
+      0,
+      0,
+      3
+    ],
+    "cost": 3,
+    "marks": [
+      62.904255627195646,
+      61.369765908653065,
+      60.00767035895552
+    ],
+    "meets_targets": true,
+    "schedulable": true
+  }
+]
+CSP TRACE (up to first 30 events)
+[
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      0
+    ],
+    "before": 48,
+    "after": 47
+  },
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      1
+    ],
+    "before": 48,
+    "after": 47
+  },
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      1
+    ],
+    "before": 47,
+    "after": 46
+  },
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      2
+    ],
+    "before": 48,
+    "after": 47
+  },
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      2
+    ],
+    "before": 47,
+    "after": 46
+  },
+  {
+    "kind": "AC3",
+    "variable": [
+      2,
+      0
+    ],
+    "before": 47,
+    "after": 46
+  },
+  {
+    "kind": "assign",
+    "variable": [
+      2,
+      0
+    ],
+    "value": [
+      1,
+      1
+    ]
+  },
+  {
+    "kind": "assign",
+    "variable": [
+      2,
+      1
+    ],
+    "value": [
+      1,
+      2
+    ]
+  },
+  {
+    "kind": "assign",
+    "variable": [
+      2,
+      2
+    ],
+    "value": [
+      1,
+      3
+    ]
+  }
+]
+
+GENERATED REJECTION SCENARIO: NN marks meet constructed targets; A1 needs 2 sessions in 1 slot.
+Allocation: (2, 1, 1) marks: [63.00265406511281, 61.4322495981485, 59.98067216296147] targets: [62.99265406511281, 61.422249598148504, 59.97067216296147] deadlines: [1, 2, 3], capacity: 1
+{
+  "mode": "BT",
+  "message": "no solution: deadline/capacity conflict",
+  "assignments": 1,
+  "backtracks": 2,
+  "pruned": 0,
+  "trace": [
+    {
+      "kind": "assign",
+      "variable": [
+        0,
+        0
+      ],
+      "value": [
+        1,
+        1
+      ]
+    }
+  ]
+}
+{
+  "mode": "BT+FC",
+  "message": "no solution: deadline/capacity conflict",
+  "assignments": 1,
+  "backtracks": 1,
+  "pruned": 1,
+  "trace": [
+    {
+      "kind": "assign",
+      "variable": [
+        0,
+        0
+      ],
+      "value": [
+        1,
+        1
+      ]
+    },
+    {
+      "kind": "FC",
+      "variable": [
+        0,
+        1
+      ],
+      "before": 1,
+      "after": 0
+    }
+  ]
+}
+{
+  "mode": "BT+FC+AC3",
+  "message": "no solution: deadline/capacity conflict",
+  "assignments": 0,
+  "backtracks": 0,
+  "pruned": 1,
+  "trace": [
+    {
+      "kind": "AC3",
+      "variable": [
+        0,
+        0
+      ],
+      "before": 1,
+      "after": 0
+    }
+  ]
+}
+Saved: /workspace/scratch/69ac903db39f/assessment_aware_study_planner/outputs/demo/result.json and cooperation.png

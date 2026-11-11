@@ -1,0 +1,496 @@
+{
+  "profile_id": "profile_06",
+  "source": "OULAD",
+  "status": "solution",
+  "allocation": [
+    0,
+    0,
+    3
+  ],
+  "predicted_marks": [
+    62.904255627195646,
+    61.369765908653065,
+    60.00767035895552
+  ],
+  "timetable": [
+    {
+      "assignment": 3,
+      "session": 1,
+      "week": 1,
+      "slot": 1
+    },
+    {
+      "assignment": 3,
+      "session": 2,
+      "week": 1,
+      "slot": 2
+    },
+    {
+      "assignment": 3,
+      "session": 3,
+      "week": 1,
+      "slot": 3
+    }
+  ],
+  "best_effort": false,
+  "targets": [
+    60,
+    60,
+    60
+  ],
+  "curves": [
+    [
+      62.904255627195646,
+      62.98159798117143,
+      63.00265406511281,
+      63.01535179475726,
+      63.02447190013506,
+      63.03159346761322,
+      63.037436879311294,
+      63.042391868883655,
+      63.04669327268352
+    ],
+    [
+      61.369765908653065,
+      61.4322495981485,
+      61.44909922934417,
+      61.45924779414257,
+      61.46653313888497,
+      61.4722203297332,
+      61.47688591885441,
+      61.48084163780477,
+      61.48427524506942
+    ],
+    [
+      59.918188473466024,
+      59.98067216296147,
+      59.99752179415714,
+      60.00767035895552,
+      60.014955703697936,
+      60.020642894546164,
+      60.025308483667374,
+      60.029264202617725,
+      60.03269780988237
+    ]
+  ],
+  "search": {
+    "state": [
+      0,
+      0,
+      3
+    ],
+    "status": "solution",
+    "expanded": 20,
+    "generated": 34,
+    "csp_rejections": 0,
+    "trace": [
+      {
+        "state": [
+          0,
+          0,
+          0
+        ],
+        "cost": 0,
+        "marks": [
+          62.904255627195646,
+          61.369765908653065,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          0,
+          0
+        ],
+        "cost": 1,
+        "marks": [
+          62.98159798117143,
+          61.369765908653065,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          1,
+          0
+        ],
+        "cost": 1,
+        "marks": [
+          62.904255627195646,
+          61.4322495981485,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          0,
+          1
+        ],
+        "cost": 1,
+        "marks": [
+          62.904255627195646,
+          61.369765908653065,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          2,
+          0,
+          0
+        ],
+        "cost": 2,
+        "marks": [
+          63.00265406511281,
+          61.369765908653065,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          1,
+          0
+        ],
+        "cost": 2,
+        "marks": [
+          62.98159798117143,
+          61.4322495981485,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          0,
+          1
+        ],
+        "cost": 2,
+        "marks": [
+          62.98159798117143,
+          61.369765908653065,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          2,
+          0
+        ],
+        "cost": 2,
+        "marks": [
+          62.904255627195646,
+          61.44909922934417,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          1,
+          1
+        ],
+        "cost": 2,
+        "marks": [
+          62.904255627195646,
+          61.4322495981485,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          0,
+          2
+        ],
+        "cost": 2,
+        "marks": [
+          62.904255627195646,
+          61.369765908653065,
+          59.99752179415714
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          3,
+          0,
+          0
+        ],
+        "cost": 3,
+        "marks": [
+          63.01535179475726,
+          61.369765908653065,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          2,
+          1,
+          0
+        ],
+        "cost": 3,
+        "marks": [
+          63.00265406511281,
+          61.4322495981485,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          2,
+          0,
+          1
+        ],
+        "cost": 3,
+        "marks": [
+          63.00265406511281,
+          61.369765908653065,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          2,
+          0
+        ],
+        "cost": 3,
+        "marks": [
+          62.98159798117143,
+          61.44909922934417,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          1,
+          1
+        ],
+        "cost": 3,
+        "marks": [
+          62.98159798117143,
+          61.4322495981485,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          1,
+          0,
+          2
+        ],
+        "cost": 3,
+        "marks": [
+          62.98159798117143,
+          61.369765908653065,
+          59.99752179415714
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          3,
+          0
+        ],
+        "cost": 3,
+        "marks": [
+          62.904255627195646,
+          61.45924779414257,
+          59.918188473466024
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          2,
+          1
+        ],
+        "cost": 3,
+        "marks": [
+          62.904255627195646,
+          61.44909922934417,
+          59.98067216296147
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          1,
+          2
+        ],
+        "cost": 3,
+        "marks": [
+          62.904255627195646,
+          61.4322495981485,
+          59.99752179415714
+        ],
+        "meets_targets": false,
+        "schedulable": null
+      },
+      {
+        "state": [
+          0,
+          0,
+          3
+        ],
+        "cost": 3,
+        "marks": [
+          62.904255627195646,
+          61.369765908653065,
+          60.00767035895552
+        ],
+        "meets_targets": true,
+        "schedulable": true
+      }
+    ]
+  },
+  "algorithm": "ucs",
+  "capacity": 3,
+  "deadlines": [
+    2,
+    10,
+    16
+  ],
+  "max_sessions_per_assignment": 8,
+  "model_evaluations": 27,
+  "scope": "No-solution and fallback are exact only within the configured session cap.",
+  "csp_calls": 1,
+  "csp_counters": {
+    "assignments": 3,
+    "backtracks": 0,
+    "checks": 7422,
+    "pruned": 6,
+    "arcs": 12
+  },
+  "csp_trace": [
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        0
+      ],
+      "before": 48,
+      "after": 47
+    },
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        1
+      ],
+      "before": 48,
+      "after": 47
+    },
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        1
+      ],
+      "before": 47,
+      "after": 46
+    },
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        2
+      ],
+      "before": 48,
+      "after": 47
+    },
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        2
+      ],
+      "before": 47,
+      "after": 46
+    },
+    {
+      "kind": "AC3",
+      "variable": [
+        2,
+        0
+      ],
+      "before": 47,
+      "after": 46
+    },
+    {
+      "kind": "assign",
+      "variable": [
+        2,
+        0
+      ],
+      "value": [
+        1,
+        1
+      ]
+    },
+    {
+      "kind": "assign",
+      "variable": [
+        2,
+        1
+      ],
+      "value": [
+        1,
+        2
+      ]
+    },
+    {
+      "kind": "assign",
+      "variable": [
+        2,
+        2
+      ],
+      "value": [
+        1,
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "seed": 2,
+  "source": "OULAD real data",
+  "fit_rows": 55527,
+  "validation_rows": 14261,
+  "test_rows": 36638,
+  "nn": {
+    "mae": 22.622123252010567,
+    "rmse": 30.521355271010556
+  },
+  "baseline": {
+    "mae": 28.562836495267373,
+    "rmse": 36.71387563964405
+  },
+  "baseline_training_mean": 78.86977506438309,
+  "monotonicity_violations": 0,
+  "monotonicity_comparisons": 293104,
+  "epochs": 36,
+  "train_presentations": [
+    "2013J"
+  ],
+  "test_presentation": "2014J",
+  "feature_names": [
+    "clicks_w1_content",
+    "clicks_w1_communication",
+    "clicks_w1_practice",
+    "clicks_w2_content",
+    "clicks_w2_communication",
+    "clicks_w2_practice",
+    "clicks_w3_content",
+    "clicks_w3_communication",
+    "clicks_w3_practice",
+    "clicks_w4_content",
+    "clicks_w4_communication",
+    "clicks_w4_practice",
+    "previous_mean",
+    "previous_last",
+    "history_missing",
+    "is_cma",
+    "weight",
+    "weeks_since_start",
+    "horizon_weeks"
+  ],
+  "training_click_max": [
+    381.0,
+    868.0,
+    282.0,
+    381.0,
+    868.0,
+    76.0,
+    381.0,
+    868.0,
+    282.0,
+    381.0,
+    868.0,
+    282.0
+  ]
+}

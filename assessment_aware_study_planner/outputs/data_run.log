@@ -1,0 +1,45 @@
+{
+  "source": "OULAD real data",
+  "seed": 42,
+  "module": "BBB",
+  "train_presentations": [
+    "2013J"
+  ],
+  "test_presentation": "2014J",
+  "train_rows": 69788,
+  "test_rows": 36638,
+  "features": [
+    "clicks_w1_content",
+    "clicks_w1_communication",
+    "clicks_w1_practice",
+    "clicks_w2_content",
+    "clicks_w2_communication",
+    "clicks_w2_practice",
+    "clicks_w3_content",
+    "clicks_w3_communication",
+    "clicks_w3_practice",
+    "clicks_w4_content",
+    "clicks_w4_communication",
+    "clicks_w4_practice",
+    "previous_mean",
+    "previous_last",
+    "history_missing",
+    "is_cma",
+    "weight",
+    "weeks_since_start",
+    "horizon_weeks"
+  ],
+  "profiles": 30,
+  "url": "https://ndownloader.figshare.com/files/8606371",
+  "archive_md5": "7412686fd77cf0e0ee1e8c3e9b354308",
+  "license": "CC BY 4.0",
+  "forecast_horizons_days": [
+    14,
+    28,
+    42,
+    70,
+    112
+  ],
+  "grade_availability_assumption_days": 14,
+  "student_overlap": 0
+}

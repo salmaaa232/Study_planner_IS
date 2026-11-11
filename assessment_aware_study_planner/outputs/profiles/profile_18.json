@@ -1,0 +1,104 @@
+{
+  "profile_id": "profile_18",
+  "source": "OULAD",
+  "status": "solution",
+  "allocation": [
+    0,
+    0,
+    0
+  ],
+  "predicted_marks": [
+    85.5331642900053,
+    89.54361232760508,
+    95.85189548550275
+  ],
+  "timetable": [],
+  "best_effort": false,
+  "targets": [
+    55.0,
+    55.0,
+    55.0
+  ],
+  "curves": [
+    [
+      85.5331642900053,
+      86.48796936572481,
+      86.7793495160235,
+      86.96227208519156,
+      87.0965335039705,
+      87.20281391261157,
+      87.2908434168217,
+      87.36600446713665,
+      87.43159524849482
+    ],
+    [
+      89.54361232760508,
+      90.4984174033246,
+      90.78979755362327,
+      90.97272012279134,
+      91.10698154157029,
+      91.21326195021136,
+      91.3012914544215,
+      91.37645250473642,
+      91.4420432860946
+    ],
+    [
+      95.85189548550275,
+      96.80670056122226,
+      97.09808071152094,
+      97.281003280689,
+      97.41526469946795,
+      97.52154510810902,
+      97.60957461231915,
+      97.6847356626341,
+      97.75032644399226
+    ]
+  ],
+  "search": {
+    "state": [
+      0,
+      0,
+      0
+    ],
+    "status": "solution",
+    "expanded": 1,
+    "generated": 1,
+    "csp_rejections": 0,
+    "trace": [
+      {
+        "state": [
+          0,
+          0,
+          0
+        ],
+        "cost": 0,
+        "marks": [
+          85.5331642900053,
+          89.54361232760508,
+          95.85189548550275
+        ],
+        "meets_targets": true,
+        "schedulable": true
+      }
+    ]
+  },
+  "algorithm": "ucs",
+  "capacity": 3,
+  "deadlines": [
+    2,
+    10,
+    16
+  ],
+  "max_sessions_per_assignment": 8,
+  "model_evaluations": 27,
+  "scope": "No-solution and fallback are exact only within the configured session cap.",
+  "csp_calls": 1,
+  "csp_counters": {
+    "assignments": 0,
+    "backtracks": 0,
+    "checks": 0,
+    "pruned": 0,
+    "arcs": 0
+  },
+  "csp_trace": []
+}

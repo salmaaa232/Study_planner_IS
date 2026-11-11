@@ -1,0 +1,142 @@
+[
+  {
+    "epoch": 1,
+    "validation_mse": 190.38656426101386
+  },
+  {
+    "epoch": 2,
+    "validation_mse": 190.06753892290965
+  },
+  {
+    "epoch": 3,
+    "validation_mse": 189.73578183997626
+  },
+  {
+    "epoch": 4,
+    "validation_mse": 191.1963701701287
+  },
+  {
+    "epoch": 5,
+    "validation_mse": 190.82134287328864
+  },
+  {
+    "epoch": 6,
+    "validation_mse": 190.86268926474077
+  },
+  {
+    "epoch": 7,
+    "validation_mse": 189.9918362960827
+  },
+  {
+    "epoch": 8,
+    "validation_mse": 188.70051430794817
+  },
+  {
+    "epoch": 9,
+    "validation_mse": 196.8440887308771
+  },
+  {
+    "epoch": 10,
+    "validation_mse": 189.2668299735895
+  },
+  {
+    "epoch": 11,
+    "validation_mse": 192.1684437647333
+  },
+  {
+    "epoch": 12,
+    "validation_mse": 189.91441153832037
+  },
+  {
+    "epoch": 13,
+    "validation_mse": 190.70172484983783
+  },
+  {
+    "epoch": 14,
+    "validation_mse": 191.49080938784107
+  },
+  {
+    "epoch": 15,
+    "validation_mse": 189.74732278343717
+  },
+  {
+    "epoch": 16,
+    "validation_mse": 189.2490917213427
+  },
+  {
+    "epoch": 17,
+    "validation_mse": 188.38191983651743
+  },
+  {
+    "epoch": 18,
+    "validation_mse": 189.53750037895358
+  },
+  {
+    "epoch": 19,
+    "validation_mse": 189.13365305054126
+  },
+  {
+    "epoch": 20,
+    "validation_mse": 188.24534026050412
+  },
+  {
+    "epoch": 21,
+    "validation_mse": 189.27526996344298
+  },
+  {
+    "epoch": 22,
+    "validation_mse": 189.0450182356931
+  },
+  {
+    "epoch": 23,
+    "validation_mse": 188.75646814758474
+  },
+  {
+    "epoch": 24,
+    "validation_mse": 188.47277452846305
+  },
+  {
+    "epoch": 25,
+    "validation_mse": 189.16000532672552
+  },
+  {
+    "epoch": 26,
+    "validation_mse": 188.73808119124124
+  },
+  {
+    "epoch": 27,
+    "validation_mse": 189.96770043936408
+  },
+  {
+    "epoch": 28,
+    "validation_mse": 188.71570968687243
+  },
+  {
+    "epoch": 29,
+    "validation_mse": 188.7833254934081
+  },
+  {
+    "epoch": 30,
+    "validation_mse": 190.29540199707677
+  },
+  {
+    "epoch": 31,
+    "validation_mse": 189.7384817718368
+  },
+  {
+    "epoch": 32,
+    "validation_mse": 190.26642580486313
+  },
+  {
+    "epoch": 33,
+    "validation_mse": 191.54112915957285
+  },
+  {
+    "epoch": 34,
+    "validation_mse": 192.79402378456774
+  },
+  {
+    "epoch": 35,
+    "validation_mse": 189.40723105735904
+  }
+]

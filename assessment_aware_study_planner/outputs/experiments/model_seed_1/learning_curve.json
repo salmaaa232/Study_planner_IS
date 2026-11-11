@@ -1,0 +1,146 @@
+[
+  {
+    "epoch": 1,
+    "validation_mse": 205.47270201342897
+  },
+  {
+    "epoch": 2,
+    "validation_mse": 210.51123522493043
+  },
+  {
+    "epoch": 3,
+    "validation_mse": 205.83732532893708
+  },
+  {
+    "epoch": 4,
+    "validation_mse": 204.5337060443597
+  },
+  {
+    "epoch": 5,
+    "validation_mse": 206.59748108104327
+  },
+  {
+    "epoch": 6,
+    "validation_mse": 207.4788784534153
+  },
+  {
+    "epoch": 7,
+    "validation_mse": 205.44792908182438
+  },
+  {
+    "epoch": 8,
+    "validation_mse": 205.69169949239785
+  },
+  {
+    "epoch": 9,
+    "validation_mse": 204.00988169114137
+  },
+  {
+    "epoch": 10,
+    "validation_mse": 206.7118116342425
+  },
+  {
+    "epoch": 11,
+    "validation_mse": 204.72478692152455
+  },
+  {
+    "epoch": 12,
+    "validation_mse": 205.78691242130824
+  },
+  {
+    "epoch": 13,
+    "validation_mse": 206.57096428783964
+  },
+  {
+    "epoch": 14,
+    "validation_mse": 205.3130420853556
+  },
+  {
+    "epoch": 15,
+    "validation_mse": 205.35199237324912
+  },
+  {
+    "epoch": 16,
+    "validation_mse": 204.15790393639085
+  },
+  {
+    "epoch": 17,
+    "validation_mse": 206.7836443081735
+  },
+  {
+    "epoch": 18,
+    "validation_mse": 204.5506176425734
+  },
+  {
+    "epoch": 19,
+    "validation_mse": 206.72497246869182
+  },
+  {
+    "epoch": 20,
+    "validation_mse": 204.81518702000668
+  },
+  {
+    "epoch": 21,
+    "validation_mse": 203.7510304968707
+  },
+  {
+    "epoch": 22,
+    "validation_mse": 206.08354986242773
+  },
+  {
+    "epoch": 23,
+    "validation_mse": 204.0361430126443
+  },
+  {
+    "epoch": 24,
+    "validation_mse": 205.1997726669139
+  },
+  {
+    "epoch": 25,
+    "validation_mse": 207.390717137866
+  },
+  {
+    "epoch": 26,
+    "validation_mse": 208.36885146980723
+  },
+  {
+    "epoch": 27,
+    "validation_mse": 204.07674012472103
+  },
+  {
+    "epoch": 28,
+    "validation_mse": 206.15584987280414
+  },
+  {
+    "epoch": 29,
+    "validation_mse": 205.52883364013394
+  },
+  {
+    "epoch": 30,
+    "validation_mse": 205.63615090183671
+  },
+  {
+    "epoch": 31,
+    "validation_mse": 207.077298735841
+  },
+  {
+    "epoch": 32,
+    "validation_mse": 207.12206313812226
+  },
+  {
+    "epoch": 33,
+    "validation_mse": 206.5088278260382
+  },
+  {
+    "epoch": 34,
+    "validation_mse": 205.39772288753298
+  },
+  {
+    "epoch": 35,
+    "validation_mse": 207.13740014904093
+  },
+  {
+    "epoch": 36,
+    "validation_mse": 204.46591204588736
+  }
+]
